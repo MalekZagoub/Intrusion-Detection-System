@@ -4,15 +4,19 @@ The NSL-KDD dataset is a pivotal resource in cybersecurity for evaluating machin
 # Project Goals
 The project focuses on the following objectives:
 Dataset Analysis: Utilize Python libraries like Pandas and Matplotlib to analyze the NSL-KDD dataset, identify biases, and visualize key insights.
+
 Machine Learning Models: Construct and optimize models using XGBoost and Logistic Regression to effectively detect and classify network intrusions.
+
 Data Preparation: Apply preprocessing and feature engineering techniques with Scikit-learn to clean and transform the dataset, enhancing model training and performance.
-Technologies and Tools
+
+Technologies and Tools:
 Python: The primary language used for data analysis and model implementation.
 XGBoost: A gradient boosting framework employed for high-performance classification.
 Logistic Regression: A fundamental model used for baseline comparisons and interpretability.
 Pandas: Utilized for data manipulation and cleaning tasks.
 Scikit-learn: Employed for model building, preprocessing, and performance evaluation.
 Matplotlib: Used for data visualization and exploratory analysis.
+
 # Methodology
 Data Cleaning: Performed data cleaning to handle missing values and outliers, ensuring the dataset's reliability.
 Exploratory Data Analysis (EDA): Conducted EDA to uncover feature distributions, correlations, and patterns within the dataset.
